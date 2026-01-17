@@ -19,7 +19,7 @@
 - C Programming  
 - C++  
 - Core Java  
-- Web Development (HTML, CSS)  
+- Web Development (HTML, CSS ,JS)  
 - Git & GitHub  
 
 ---
